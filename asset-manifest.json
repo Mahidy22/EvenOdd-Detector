@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EvenOdd-Detector/static/css/main.71872a0d.css",
+    "main.js": "/EvenOdd-Detector/static/js/main.3c71201a.js",
+    "index.html": "/EvenOdd-Detector/index.html",
+    "main.71872a0d.css.map": "/EvenOdd-Detector/static/css/main.71872a0d.css.map",
+    "main.3c71201a.js.map": "/EvenOdd-Detector/static/js/main.3c71201a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71872a0d.css",
+    "static/js/main.3c71201a.js"
+  ]
+}
